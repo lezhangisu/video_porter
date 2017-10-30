@@ -1,4 +1,4 @@
-##Video Porter
+## Video Porter
 It supports douyu.com by now
 
 list.txt saves the downloaded video links
@@ -13,7 +13,7 @@ If video not in youtube-supported format, use 'python converter.py inputvideo ou
 
 'python youtube_uploader.py folder_dir/' to upload videos
 
-##Dependencies
+## Dependencies
 [you-get](https://github.com/soimort/you-get)
 
 [youtube-upload](https://github.com/tokland/youtube-upload)
